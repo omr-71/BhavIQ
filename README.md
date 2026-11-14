@@ -1,9 +1,6 @@
-Gemini_Generated_Image_pn3q63pn3q63pn3q.png
- 
- 
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071713,45:104D38,100:20C997&height=240&section=header&text=BHAVIQ&fontSize=88&fontColor=FFFFFF&fontAlignY=37&desc=INTELLIGENT%20RETAIL%20%26%20MARKET%20INTELLIGENCE&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="BHAVIQ"/>
+<img src="Gemini_Generated_Image_pn3q63pn3q63pn3q.png" width="100%" alt="BHAVIQ — Intelligent Retail Management & Market Intelligence"/>
 
 <br/>
 
@@ -138,18 +135,18 @@ npx tauri build
 
 ```text
 BHAVIQ/
-├── public/              # Static assets
-├── server/              # Server-side modules
+├── public/
+├── server/
 ├── src/
-│   ├── components/      # Reusable components
-│   ├── lib/             # Application utilities
-│   └── pages/           # Application pages
-├── src-tauri/           # Native desktop application
+│   ├── components/
+│   ├── lib/
+│   └── pages/
+├── src-tauri/
 ├── supabase/
-│   └── migrations/      # Database migrations
-├── data/                # Project data
-├── docs/                # Documentation
-├── server.ts            # Server entry point
+│   └── migrations/
+├── data/
+├── docs/
+├── server.ts
 └── package.json
 ```
 
