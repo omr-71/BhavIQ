@@ -1,47 +1,64 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071713,45:123D30,100:20A477&height=230&section=header&text=BHAVIQ&fontSize=82&fontColor=FFFFFF&fontAlignY=38&desc=INTELLIGENT%20RETAIL%20%26%20MARKET%20INTELLIGENCE&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="BHAVIQ banner"/>
-
-### Understand your business. Make smarter decisions.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=42D6A0&center=true&vCenter=true&width=650&lines=Retail+Management%2C+Reimagined.;From+inventory+to+intelligence.;Better+visibility.+Smarter+decisions." alt="Animated tagline"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071713,45:104D38,100:20C997&height=240&section=header&text=BHAVIQ&fontSize=88&fontColor=FFFFFF&fontAlignY=37&desc=INTELLIGENT%20RETAIL%20%26%20MARKET%20INTELLIGENCE&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="BHAVIQ"/>
 
 <br/>
 
-[![Repository](https://img.shields.io/badge/GitHub-BhavIQ-181717?style=for-the-badge&logo=github)](https://github.com/omr-71/BhavIQ)
-[![Platform](https://img.shields.io/badge/Platform-Desktop-123D30?style=for-the-badge&logo=windows)](#)
-[![Built with](https://img.shields.io/badge/Built%20with-Tauri%20%7C%20React-20A477?style=for-the-badge)](#)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=42D6A0&center=true&vCenter=true&width=700&lines=Retail+Management%2C+Reimagined.;Turn+Business+Data+Into+Clarity.;One+Workspace.+Smarter+Retail." alt="Animated BHAVIQ tagline"/>
+
+<br/><br/>
+
+<a href="https://bhaviq-shop.web.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20BHAVIQ-LIVE%20PLATFORM-16A779?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore BHAVIQ"/>
+</a>
+<a href="https://github.com/omr-71/BhavIQ">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**A smarter way to understand, manage and grow retail operations.**
 
 </div>
 
 ---
 
-## Overview
+## The idea behind BHAVIQ
 
-**BHAVIQ** is an intelligent retail management and market intelligence application designed to bring essential shop operations and business insights into one unified workspace.
+Retail is more than selling products. It is about understanding inventory, managing finances, tracking suppliers, monitoring prices and making decisions every day.
 
-It aims to connect everyday retail workflows with better visibility into inventory, billing, purchasing, supplier activity and market information.
+**BHAVIQ** brings these essential business workflows together in one intelligent retail management experience.
 
-The idea is simple: give retailers a clearer picture of their business so they can make more informed decisions.
+Designed to connect everyday retail operations with market intelligence, BHAVIQ aims to give retailers better visibility and a more organised way to manage their business.
 
-## Core Capabilities
+## Explore the platform
 
-| Module | Description |
+<div align="center">
+
+### <a href="https://bhaviq-shop.web.app/">bhaviq-shop.web.app</a>
+
+*Your retail operations. One connected workspace.*
+
+</div>
+
+## What BHAVIQ brings together
+
+| Experience | What it offers |
 |---|---|
-| Overview | A central view of business activity |
-| Billing | Manage billing and invoice workflows |
-| Products & Inventory | Organise products and stock information |
-| Khata | Manage customer account records |
-| Purchases & Suppliers | Track purchases and supplier information |
-| Market Intelligence | Explore commodity and market information |
-| Reports & Expenses | Review business records and expenses |
-| Settings | Manage application preferences |
+| Business Overview | A central view of business activity |
+| Billing | Billing and invoice management |
+| Products & Inventory | Product and stock organisation |
+| Khata | Customer account management |
+| Purchases & Suppliers | Purchase and supplier workflows |
+| Market Intelligence | Commodity and market information |
+| Reports & Expenses | Business records and expense visibility |
+| Settings | Application preferences |
 
 ## Market Intelligence
 
-BHAVIQ brings market information into the retail workflow.
+Market information can help retailers understand changing prices and make more informed purchasing decisions.
 
-Its market intelligence experience includes features such as:
+BHAVIQ's market intelligence experience includes:
 
 - Rate Explorer
 - Price Calculator
@@ -50,71 +67,67 @@ Its market intelligence experience includes features such as:
 - Market Observation Logging
 - Official AGMARKNET data integration
 
-Market information should be interpreted with its source and reporting date in mind.
+*Market observations should always be considered alongside their source and reporting date.*
 
-## Technology
+## Built with
 
-BHAVIQ's application architecture uses a combination of:
+<div align="center">
 
-- **React** — User interface
-- **TypeScript** — Type-safe application development
-- **Vite** — Development and build tooling
-- **Tauri** — Desktop application framework
-- **Rust** — Native desktop integration
-- **Supabase** — Backend and database services
-- **Firebase** — Configured Firebase services
+<img src="https://skillicons.dev/icons?i=react,ts,vite,rust,supabase,firebase" alt="Technology stack"/>
+
+</div>
+
+| Technology | Role |
+|---|---|
+| React | User interface |
+| TypeScript | Application development |
+| Vite | Development and build tooling |
+| Tauri | Desktop application framework |
+| Rust | Native desktop integration |
+| Supabase | Backend and database services |
+| Firebase | Configured Firebase services |
 
 ## Getting Started
 
-### Requirements
+### Prerequisites
 
 - Node.js
 - npm
 - Rust toolchain
-- Tauri prerequisites for your operating system
+- Tauri system prerequisites
 
-### 1. Clone the repository
+### Installation
 
 ```bash
 git clone https://github.com/omr-71/BhavIQ.git
 cd BhavIQ
-```
-
-### 2. Install dependencies
-
-```bash
 npm install
 ```
 
-### 3. Configure environment variables
+### Environment setup
 
-Create your local environment file using `.env.example`.
+Create a local environment file using `.env.example`.
 
-Add the required credentials for your configured services, such as Supabase and Gemini, according to the project's environment configuration.
+Configure the credentials required by your project, including the relevant backend and API settings.
 
-**Never commit real credentials, API keys or private service files.**
+Never commit actual credentials, API keys or private service-account files.
 
-### 4. Start the development server
+### Run locally
 
 ```bash
 npm run dev
 ```
 
-### 5. Launch the desktop application
+### Run the desktop application
 
 ```bash
 npx tauri dev
 ```
 
-### 6. Create a production build
+### Production build
 
 ```bash
 npm run build
-```
-
-For a desktop release build:
-
-```bash
 npx tauri build
 ```
 
@@ -125,7 +138,7 @@ BHAVIQ/
 ├── public/              # Static assets
 ├── server/              # Server-side modules
 ├── src/
-│   ├── components/      # Reusable UI components
+│   ├── components/      # Reusable components
 │   ├── lib/             # Application utilities
 │   └── pages/           # Application pages
 ├── src-tauri/           # Native desktop application
@@ -134,25 +147,18 @@ BHAVIQ/
 ├── data/                # Project data
 ├── docs/                # Documentation
 ├── server.ts            # Server entry point
-├── package.json
-└── README.md
+└── package.json
 ```
 
-## Design Philosophy
+## The principles
 
-**Clarity over complexity.** Business information should be easy to understand.
+**Clarity** — Make business information easier to understand.
 
-**Intelligence with context.** Market data is more useful when presented with its source and context.
+**Intelligence** — Connect retail workflows with meaningful market context.
 
-**Practical by design.** Every feature should serve a real retail workflow.
+**Simplicity** — Keep everyday business operations organised.
 
-**Built for reliability.** Business operations need dependable tools and carefully handled data.
-
-## Development
-
-BHAVIQ is an evolving project. Features, integrations and application capabilities may change as development progresses.
-
-Contributions, suggestions and constructive feedback are welcome.
+**Reliability** — Build around real workflows and trustworthy information.
 
 ## Connect
 
@@ -162,18 +168,17 @@ Contributions, suggestions and constructive feedback are welcome.
 
 *Intelligent Retail Management & Market Intelligence*
 
-Developed by **Om Labhade**
+Created by **Om Labhade**
 
-[GitHub Repository](https://github.com/omr-71/BhavIQ)
+<br/>
 
-</div>
+<a href="https://bhaviq-shop.web.app/">WEBSITE</a> ·
+<a href="https://github.com/omr-71/BhavIQ">GITHUB</a>
 
----
+<br/><br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C997,50:104D38,100:071713&height=110&section=footer" width="100%" alt="BHAVIQ footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20A477,50:123D30,100:071713&height=100&section=footer" width="100%" alt="Footer"/>
-
-**BHAVIQ · THINK BEYOND RETAIL.**
+**THINK BEYOND RETAIL.**
 
 </div>
