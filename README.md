@@ -1,3 +1,6 @@
+Gemini_Generated_Image_pn3q63pn3q63pn3q.png
+ 
+ 
  <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071713,45:104D38,100:20C997&height=240&section=header&text=BHAVIQ&fontSize=88&fontColor=FFFFFF&fontAlignY=37&desc=INTELLIGENT%20RETAIL%20%26%20MARKET%20INTELLIGENCE&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="BHAVIQ"/>
