@@ -1,0 +1,1087 @@
+# BHAVIQ — COMPLETE PRODUCT CREATION MASTER PROMPT
+
+Act as a world-class product designer, senior full-stack engineer, database architect, retail technology specialist, and market intelligence systems engineer.
+
+Your task is to BUILD a complete, professional, production-oriented web application called **BHAVIQ**.
+
+Do not create just a landing page, static prototype, dashboard mockup, or collection of decorative screens. Build a real, functional retail management and market intelligence platform.
+
+The product must feel like a premium, established Indian technology company created by an experienced product team.
+
+---
+
+# 1. BRAND IDENTITY
+
+## Brand name
+BHAVIQ
+
+## Brand concept
+BHAVIQ represents intelligent business decisions for local retailers.
+
+Brand interpretation:
+- BHAV: Business value, pricing, and commercial understanding.
+- IQ: Intelligence and informed decision-making.
+
+## Positioning
+Intelligent retail management for modern India.
+
+## Tagline
+Know the market. Master your business.
+
+## Brand personality
+- Intelligent
+- Trustworthy
+- Premium
+- Modern
+- Practical
+- Business-focused
+- Indian retail oriented
+- Simple to understand
+
+Do not use generic AI branding.
+
+Do not use:
+- Robot icons
+- AI brain illustrations
+- Random gradients everywhere
+- Generic chatbot imagery
+- Excessive glowing effects
+- Unnecessary decorative icons
+
+## Create an original professional logo
+
+Design a unique BHAVIQ logo from scratch.
+
+The logo must visually communicate the combination of:
+- Retail and commerce
+- Market intelligence
+- Pricing and value
+- Business growth
+- Accuracy and trust
+
+Create a meaningful geometric symbol that can work independently as an app icon and alongside the BHAVIQ wordmark.
+
+Explore an abstract combination of:
+- A rising market/value structure
+- A subtle retail/store or product-grid reference
+- A distinctive geometric B-inspired symbol
+
+Do not simply place a shopping cart beside the word BHAVIQ.
+
+Logo requirements:
+- Original vector-based SVG.
+- Professional typography.
+- Balanced proportions.
+- Excellent legibility at small sizes.
+- Suitable for favicon, mobile app icon, website header, login screen, and printed material.
+- Light and dark background variants.
+- Consistent brand identity throughout the application.
+
+Use a carefully selected premium font family. Prefer a modern, highly readable sans-serif such as Manrope, Inter, or a suitable equivalent. Use consistent font weights and spacing.
+
+Create the actual logo asset and use that same asset everywhere. Do not use placeholder logos.
+
+---
+
+# 2. DESIGN DIRECTION
+
+Create a premium visual identity inspired by the design quality of leading products such as Apple, Linear, Stripe, and modern professional business software.
+
+However, BHAVIQ must have its own distinctive visual language.
+
+The design must be:
+- Clean
+- Beautiful
+- Structured
+- Spacious
+- Premium
+- Functional
+- Consistent
+- Easy for shop owners to understand
+
+Avoid a typical AI-generated dashboard appearance.
+
+## Visual system
+
+Use:
+- A sophisticated light theme as the default.
+- A carefully designed dark theme as an option.
+- Warm neutral or porcelain backgrounds.
+- Deep charcoal typography.
+- A distinctive cobalt or refined indigo brand accent.
+- Restrained green for verified positive business indicators.
+- Restrained red for genuine warnings.
+- Subtle borders and carefully controlled shadows.
+
+Do not apply gradients to every card.
+
+Use gradients only where they genuinely improve the design.
+
+Create a consistent design system for:
+- Typography
+- Spacing
+- Border radii
+- Buttons
+- Inputs
+- Navigation
+- Cards
+- Tables
+- Dialogs
+- Notifications
+- Charts
+- Empty states
+- Loading states
+
+---
+
+# 3. DIFFERENT DESKTOP AND MOBILE EXPERIENCES
+
+This requirement is extremely important.
+
+Do NOT simply shrink the desktop website to fit a mobile screen.
+
+Build two deliberately designed experiences using the same backend, data, business logic, and permissions.
+
+## A. MOBILE EXPERIENCE
+
+The mobile experience should feel like a premium native retail application.
+
+Design it around:
+- Compact layouts
+- Thumb-friendly interactions
+- Bottom navigation
+- Full-width content
+- Clear hierarchy
+- Easy one-handed operation
+- Fast billing workflows
+
+Use a premium bottom navigation bar with these primary sections:
+
+1. Home
+2. Billing
+3. Stock
+4. Market
+5. More
+
+The More section should contain:
+- Khata
+- Purchases
+- Suppliers
+- Reports
+- Expenses
+- Settings
+
+Mobile design requirements:
+- Compact premium cards.
+- Smooth horizontal scrolling where appropriate.
+- Clear product search.
+- Large, accessible billing controls.
+- Bottom sheets for quick actions.
+- Properly designed forms.
+- Attractive charts that remain readable.
+- Sticky action buttons when useful.
+- Smooth screen transitions.
+- Responsive tables converted into well-designed mobile layouts.
+
+Do not squeeze desktop tables into mobile screens.
+
+The mobile dashboard should prioritize today's sales, outstanding credit, low-stock alerts, and quick actions.
+
+## B. DESKTOP EXPERIENCE
+
+The desktop experience must have a distinctly different professional layout.
+
+Use:
+- A refined collapsible left sidebar.
+- A premium top navigation area.
+- Spacious multi-column dashboards.
+- Larger data tables.
+- Advanced filters.
+- Detailed market comparison panels.
+- Rich charts and analytics.
+- Multi-panel layouts where useful.
+
+Desktop navigation:
+
+- Overview
+- Billing
+- Products & Inventory
+- Khata
+- Purchases
+- Suppliers
+- Market Intelligence
+- Reports
+- Expenses
+- Settings
+
+Make desktop feel like professional business software, not an enlarged mobile app.
+
+Both experiences must use the same actual application data and backend.
+
+---
+
+# 4. PREMIUM 3D CARDS AND ANIMATIONS
+
+I specifically want beautifully designed 3D cards.
+
+Implement real, tasteful depth rather than excessive visual effects.
+
+Card design:
+- Layered shadows.
+- Subtle elevation.
+- Refined borders.
+- Soft depth.
+- Controlled lighting effects.
+- Smooth hover elevation on desktop.
+- Subtle press feedback on mobile.
+- Carefully designed active states.
+
+Use 3D transforms only where they improve the experience.
+
+Do not make cards excessively tilted, distracting, or difficult to read.
+
+## Page transitions
+
+Implement smooth application-level transitions:
+- Fade.
+- Slight blur.
+- Subtle scale.
+- Smooth content entrance.
+- Elegant navigation transitions.
+- Smooth modal and drawer animations.
+- Consistent loading transitions.
+
+Use a restrained combination of opacity, transform, and blur.
+
+Avoid excessive animation duration.
+
+Recommended timing:
+- Small interactions: approximately 150–220 ms.
+- Card and modal transitions: approximately 200–300 ms.
+- Page transitions: approximately 250–350 ms.
+
+Respect reduced-motion accessibility settings.
+
+Transitions must not interfere with navigation, data loading, or accessibility.
+
+---
+
+# 5. CORE PRODUCT PURPOSE
+
+BHAVIQ is an intelligent retail management platform for Indian local retailers.
+
+It must help a shop owner:
+
+1. Manage daily business.
+2. Create bills.
+3. Track stock.
+4. Manage customer credit.
+5. Record purchases.
+6. Compare supplier prices.
+7. Understand actual product costs.
+8. Track market price movements.
+9. Calculate appropriate selling prices.
+10. Understand profit and business performance.
+
+The most important differentiator is MARKET INTELLIGENCE.
+
+BHAVIQ must not be just a billing application.
+
+---
+
+# 6. DASHBOARD
+
+Create a premium business overview.
+
+Show actual values from the connected database only.
+
+Possible dashboard sections:
+
+- Today's sales.
+- Number of bills.
+- Gross profit.
+- Credit outstanding.
+- Current stock value.
+- Low-stock products.
+- Recent purchases.
+- Recent transactions.
+- Expenses.
+- Payment collection summary.
+- Market price alerts.
+- Product price movement.
+- Daily, weekly, and monthly business trends.
+
+Every metric must have a clear definition.
+
+Important:
+Revenue is not profit.
+
+Gross profit is not net profit.
+
+Do not display a calculated profit unless the required cost and transaction data are available.
+
+When information is unavailable, show:
+"Not enough recorded data."
+
+Never insert sample numbers to make the dashboard look populated.
+
+---
+
+# 7. BILLING SYSTEM
+
+Build a real billing system.
+
+Features:
+
+- Search products.
+- Barcode scanning support where the device permits.
+- Add and remove products.
+- Quantity selection.
+- Unit selection.
+- Discounts with authorization.
+- Payment selection.
+- Cash payment.
+- UPI payment.
+- Credit payment.
+- Split payment.
+- Invoice generation.
+- Invoice history.
+- Invoice PDF.
+- Print support.
+- Customer selection.
+- Automatic stock deduction.
+
+Every invoice must store:
+- Invoice number.
+- Shop ID.
+- Date and time.
+- Product references.
+- Product name snapshot.
+- Quantity.
+- Unit.
+- Selling price at transaction time.
+- Applicable discount.
+- Applicable tax details.
+- Total.
+- Payment details.
+- Outstanding balance.
+
+Do not silently change historical invoice prices when a product's current price changes.
+
+Billing and stock updates must be atomic.
+
+Prevent duplicate invoices and duplicate stock deductions.
+
+---
+
+# 8. PRODUCTS AND INVENTORY
+
+Create a complete product management module.
+
+Product information:
+
+- Product name.
+- Brand.
+- Category.
+- Barcode.
+- SKU.
+- Purchase price.
+- Landed cost.
+- Selling price.
+- MRP.
+- Current stock.
+- Unit.
+- Minimum stock level.
+- Supplier.
+- Expiry date where applicable.
+- Batch information where applicable.
+- Product image where available.
+
+Support:
+
+- Grocery.
+- Food products.
+- Beverages.
+- Personal care.
+- Household products.
+- Packaged FMCG.
+- Loose products.
+- Vegetables.
+- Fruits.
+- Other retail categories.
+
+Support unit conversions:
+
+- Piece.
+- Packet.
+- Box.
+- Carton.
+- Gram.
+- Kilogram.
+- Millilitre.
+- Litre.
+
+Example:
+One carton contains 12 packets.
+
+The application must understand the conversion and calculate the correct stock quantity.
+
+Stock must change through recorded stock movements.
+
+Never modify stock silently.
+
+Support:
+- Purchase additions.
+- Sales deductions.
+- Returns.
+- Damaged stock.
+- Expiry adjustments.
+- Manual corrections with an audit record.
+
+---
+
+# 9. KHATA / CUSTOMER CREDIT
+
+Build a proper digital credit ledger.
+
+Features:
+
+- Customer records.
+- Opening balances.
+- Credit purchases.
+- Partial repayments.
+- Full repayments.
+- Current outstanding.
+- Transaction history.
+- Date-wise ledger.
+- Search and filtering.
+- Payment reminders.
+- Exportable statements.
+
+Every credit transaction must have a corresponding ledger record.
+
+Calculate balances from recorded transactions.
+
+Do not allow unauthorized deletion or modification of financial entries.
+
+---
+
+# 10. PURCHASES AND SUPPLIERS
+
+Build a complete purchasing system.
+
+Supplier details:
+- Supplier name.
+- Contact details where provided.
+- Location.
+- Product categories.
+- Purchase history.
+
+Purchase records:
+- Product.
+- Brand.
+- Pack size.
+- Quantity.
+- Unit.
+- Purchase rate.
+- Discount.
+- Applicable taxes.
+- Freight.
+- Transport.
+- Additional costs.
+- Payment status.
+- Purchase date.
+
+Calculate landed cost accurately.
+
+Example:
+
+Product purchase cost + allocated transport + applicable additional costs = landed cost.
+
+The calculation must use actual recorded inputs.
+
+Maintain historical supplier quotations and purchase prices.
+
+Do not overwrite old purchase records when a new price arrives.
+
+---
+
+# 11. MARKET INTELLIGENCE — THE MOST IMPORTANT MODULE
+
+Create a premium, dedicated section called:
+
+MARKET INTELLIGENCE
+
+This should become the central differentiator of BHAVIQ.
+
+The shop owner should be able to understand the current available market rates of products and make better purchasing and selling decisions.
+
+I want a serious data-driven price intelligence engine, not an AI-generated price guessing feature.
+
+## A. PRODUCT RATE EXPLORER
+
+Create a dedicated product rate section.
+
+The shop owner should be able to:
+- Search any product.
+- Select brand.
+- Select category.
+- Select pack size.
+- Select unit.
+- Select location or market.
+- View available wholesale rates.
+- View available supplier quotations.
+- View authorized retail price observations.
+- Compare current and historical rates.
+
+Show these fields wherever actual data is available:
+
+1. Product name.
+2. Brand.
+3. Pack size.
+4. Unit.
+5. Market or supplier.
+6. Location.
+7. Current available wholesale rate.
+8. Previous recorded rate.
+9. Price movement.
+10. Source.
+11. Data timestamp.
+12. Verification status.
+13. Confidence or completeness indicator.
+
+Do not combine prices for different brands, pack sizes, or units as if they were identical.
+
+## B. DAILY PRICE DATA
+
+Build a daily market data integration architecture.
+
+Investigate and integrate legitimate data sources, prioritizing official and authorized sources.
+
+Potential sources to investigate include:
+
+- AGMARKNET.
+- Government of India Open Government Data platform (data.gov.in).
+- eNAM.
+- Relevant APMC or state agriculture market feeds.
+- Authorized supplier APIs.
+- Wholesale distributor APIs.
+- Supplier-provided price lists.
+- Verified supplier quotations uploaded by the shop owner.
+- Authorized retail price feeds.
+- Publicly advertised retail prices where reuse is permitted.
+
+Official source discovery:
+- https://agmarknet.gov.in/
+- https://www.data.gov.in/
+- https://enam.gov.in/
+
+These are sources to investigate, NOT guaranteed universal APIs.
+
+For every integration:
+1. Verify that the source actually provides the required data.
+2. Find its official API documentation or authorized access method.
+3. Confirm its terms of use.
+4. Confirm the available products, locations, update frequency, and fields.
+5. Implement the actual documented integration.
+6. Keep credentials server-side.
+7. Record the source and timestamp for each observation.
+
+Do not invent endpoints, API keys, data feeds, or integration success.
+
+Do not scrape restricted websites or private supplier systems.
+
+Do not assume a government commodity feed provides packaged FMCG wholesale prices.
+
+If a source does not cover a product, clearly mark that product as unavailable from that source.
+
+## C. DAILY DATA REFRESH ENGINE
+
+Implement a reliable scheduled refresh architecture.
+
+Requirements:
+- Refresh sources according to their documented update frequency.
+- Use Supabase Edge Functions or an appropriate secure backend service.
+- Schedule jobs using a supported scheduler.
+- Record the last successful synchronization.
+- Record failed synchronization attempts.
+- Handle rate limits.
+- Handle unavailable APIs.
+- Avoid duplicate observations.
+- Preserve price history.
+- Provide manual refresh where supported.
+- Display the actual last-updated timestamp.
+
+Never describe yesterday's data as live today's data.
+
+Clearly distinguish:
+- Live feed.
+- Updated today.
+- Latest available market data.
+- Yesterday's data.
+- Historical data.
+- Supplier quotation.
+- Manually entered price.
+- Unavailable data.
+
+If today's rate is not available, show the latest available date.
+
+Never fabricate a price to fill a missing field.
+
+## D. PRICE COMPARISON
+
+For each product, compare:
+
+- Historical purchase price.
+- Latest supplier quotation.
+- Latest available wholesale market price.
+- Recorded selling price.
+- MRP, where applicable.
+- Calculated landed cost.
+- Suggested selling-price scenarios.
+
+The comparison must use the exact same product, brand, pack size, unit, and relevant location.
+
+If the product identity is uncertain, ask the owner to confirm the match instead of combining unrelated records.
+
+## E. INTELLIGENT SELLING PRICE CALCULATOR
+
+This is a core BHAVIQ feature.
+
+The system must understand that the shop owner may have bought a product earlier at one price, while its current wholesale price may have increased or decreased.
+
+For example, use the following only as an illustrative calculation inside the feature's documentation, not as actual market data:
+
+- Historical purchase cost: ₹80.
+- Current verified replacement cost: ₹95.
+- Additional per-unit costs: ₹2.
+- Existing selling price: ₹100.
+
+The engine should calculate:
+- Historical landed cost.
+- Current replacement landed cost.
+- Current selling margin.
+- Replacement-cost margin.
+- Break-even selling price.
+- Suggested competitive price.
+- Suggested balanced price.
+- Suggested higher-margin price.
+
+The engine must distinguish two concepts:
+
+1. Historical profit: Profit based on what the shop actually paid for existing inventory.
+2. Replacement-cost economics: Whether the current selling price is sufficient to replace the product at today's available cost.
+
+Do not confuse these two.
+
+Calculate:
+
+Historical gross profit per unit =
+Actual selling price - Historical landed cost.
+
+Replacement-cost difference =
+Actual selling price - Current replacement landed cost.
+
+Gross margin percentage =
+Gross profit / Selling price × 100.
+
+Allow the owner to choose a target margin.
+
+Suggested price =
+Landed cost / (1 - Target margin percentage).
+
+Handle invalid percentages and missing cost information safely.
+
+Show the calculations transparently.
+
+Never guarantee profit.
+
+Never automatically change a selling price without the owner's approval.
+
+Respect applicable MRP and pricing laws. Do not suggest a price above MRP for products where MRP restrictions apply.
+
+Clearly flag products that may be selling below replacement cost.
+
+## F. PRICE MOVEMENT ALERTS
+
+Create alerts when:
+
+- A verified wholesale price increases.
+- A supplier offers a lower verified quotation.
+- Replacement cost increases.
+- Current selling price falls below replacement cost.
+- Gross margin falls below the owner's threshold.
+- A product experiences an unusual price movement.
+
+Only create alerts from real, sufficiently recent data.
+
+Display the reason, source, timestamp, and calculation behind every alert.
+
+## G. MARKET DATA COVERAGE
+
+Do not claim that every product has live market data.
+
+Build a source-coverage system.
+
+For every product, show whether market intelligence is:
+
+- Available.
+- Partially available.
+- Historical only.
+- Supplier quotation only.
+- Manually recorded.
+- Not currently supported.
+
+Make missing data visible and understandable.
+
+The goal is to expand coverage systematically, not pretend it already exists.
+
+---
+
+# 12. REPORTS AND BUSINESS INTELLIGENCE
+
+Build reports using actual database records.
+
+Include:
+
+- Daily sales.
+- Weekly sales.
+- Monthly sales.
+- Gross profit.
+- Product-wise performance.
+- Category-wise performance.
+- Purchase history.
+- Expense reports.
+- Credit outstanding.
+- Payment reconciliation.
+- Stock valuation.
+- Low-stock reports.
+- Price movement reports.
+- Supplier comparisons.
+
+Include useful filters and export functionality.
+
+Never calculate net profit without recording relevant expenses and defining the accounting treatment.
+
+---
+
+# 13. DATABASE AND BACKEND
+
+Use a reliable architecture.
+
+Preferred stack:
+
+Frontend:
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS.
+- A consistent professional component system.
+
+Backend:
+- Supabase.
+- PostgreSQL.
+- Supabase Auth.
+- Supabase Storage.
+- Supabase Edge Functions.
+
+Hosting:
+- Vercel or an appropriate supported hosting platform.
+
+Architecture must be modular and maintainable.
+
+Create properly structured database tables for:
+
+- profiles
+- shops
+- shop_members
+- products
+- product_units
+- stock_movements
+- customers
+- credit_entries
+- invoices
+- invoice_items
+- payments
+- suppliers
+- purchases
+- purchase_items
+- expenses
+- price_sources
+- market_prices
+- supplier_quotations
+- price_recommendations
+- audit_logs
+
+Add any additional tables required for a correct implementation.
+
+## Security requirements
+
+- Enable Row Level Security.
+- Every business record must belong to a shop.
+- Enforce shop-level data isolation.
+- Never expose service-role keys in frontend code.
+- Validate sensitive operations on the server.
+- Protect financial records.
+- Implement appropriate role-based permissions.
+- Add audit logs.
+- Secure API integrations.
+- Never expose private customer or supplier information to other shops.
+
+Support owner and staff roles.
+
+Staff should only access the functions permitted by the owner.
+
+---
+
+# 14. OFFLINE AND RELIABILITY
+
+Retail shops may have unstable internet.
+
+Plan for:
+- Offline-friendly application shell.
+- Reliable loading states.
+- Clear network status.
+- Safe pending transaction handling.
+- Unique transaction IDs.
+- Duplicate prevention.
+- Controlled synchronization.
+- Error recovery.
+
+Do not claim offline billing works until it is genuinely implemented and tested.
+
+Do not silently discard unsynchronized records.
+
+Prioritize financial correctness over visual shortcuts.
+
+---
+
+# 15. USER EXPERIENCE
+
+The shop owner should not need technical knowledge.
+
+Create:
+- Clear labels.
+- Understandable terminology.
+- Helpful empty states.
+- Useful validation messages.
+- Simple product entry.
+- Fast search.
+- Clear confirmation dialogs.
+- Friendly errors.
+- Searchable tables.
+- Accessible controls.
+
+Support English first, with architecture ready for Marathi and Hindi localization.
+
+Create a smooth first-time setup process:
+1. Create account.
+2. Create shop.
+3. Add basic shop details.
+4. Select applicable business/tax configuration.
+5. Add products.
+6. Add suppliers.
+7. Begin recording purchases and sales.
+
+Never populate the account with fictional products or transactions.
+
+---
+
+# 16. EMPTY STATES AND DATA INTEGRITY
+
+This is a strict requirement.
+
+ZERO FAKE DATA.
+
+Do not create:
+- Fake sales.
+- Fake products.
+- Fake customers.
+- Fake invoices.
+- Fake market prices.
+- Fake suppliers.
+- Fake analytics.
+- Fake reviews.
+- Fake API responses.
+- Fake synchronization statuses.
+- Fake price alerts.
+
+Do not use hardcoded arrays as a substitute for backend data.
+
+Do not show sample numbers in a real user's dashboard.
+
+If there is no data, show a beautifully designed empty state with a clear action such as:
+"Add your first product."
+
+If an API is not configured, show:
+"Market data integration not configured."
+
+If a source has not returned data, show:
+"No verified rate available."
+
+Use skeleton loaders only while genuine requests are loading.
+
+Never display a fake loading success state.
+
+---
+
+# 17. APPLICATION STRUCTURE AND CODE QUALITY
+
+Build the project with reusable, modular components.
+
+Separate:
+- UI components.
+- Pages.
+- Business logic.
+- Database operations.
+- API integrations.
+- Authentication.
+- Market intelligence engine.
+- Pricing calculations.
+- Validation.
+- Utilities.
+
+Do not put the entire application in one large component.
+
+Use proper TypeScript types.
+
+Handle errors explicitly.
+
+Avoid unnecessary dependencies.
+
+Use environment variables for configuration.
+
+Provide:
+- .env.example
+- Database migrations.
+- Setup instructions.
+- API integration documentation.
+- Deployment instructions.
+- Basic automated tests for critical calculations and financial operations.
+
+Do not expose secrets in generated code or documentation.
+
+---
+
+# 18. IMPLEMENTATION STRATEGY
+
+Build this systematically.
+
+Do not create every screen as a superficial placeholder and call the product complete.
+
+Recommended implementation sequence:
+
+PHASE 1 — Brand and foundation
+- Original BHAVIQ logo.
+- Design system.
+- Responsive desktop and mobile shells.
+- Authentication.
+- Shop setup.
+- Supabase connection.
+- Database schema.
+- Security and RLS.
+
+PHASE 2 — Retail operations
+- Products.
+- Inventory.
+- Billing.
+- Khata.
+- Suppliers.
+- Purchases.
+- Expenses.
+
+PHASE 3 — Business intelligence
+- Dashboard.
+- Reports.
+- Stock analytics.
+- Profit calculations.
+- Daily closing.
+
+PHASE 4 — Market intelligence
+- Official data source research.
+- Actual API integrations where available.
+- Supplier quotation workflow.
+- Daily synchronization.
+- Price history.
+- Product matching.
+- Replacement-cost calculator.
+- Selling-price recommendations.
+- Alerts.
+
+PHASE 5 — Quality and launch
+- Security review.
+- Database validation.
+- Mobile testing.
+- Desktop testing.
+- Performance optimization.
+- Error handling.
+- Accessibility.
+- Deployment verification.
+
+If API credentials, permissions, or external access are required, clearly identify exactly what is needed.
+
+Do not pretend an integration is complete without successful verification.
+
+---
+
+# 19. FINAL DESIGN QUALITY REQUIREMENTS
+
+The finished application must look like a serious, premium retail technology platform.
+
+I want:
+
+- A beautiful original BHAVIQ logo.
+- Distinctive mobile design.
+- Distinctive desktop design.
+- Beautiful typography.
+- Premium 3D cards.
+- Sophisticated shadows.
+- Smooth page transitions.
+- Elegant fade and blur effects.
+- Professional tables.
+- Refined charts.
+- Excellent spacing.
+- Clean layouts.
+- Consistent design.
+- No clutter.
+- No unnecessary features.
+- No generic AI appearance.
+
+Do not sacrifice usability for visual effects.
+
+Do not use random decorative sections to fill space.
+
+Every section must have a real purpose.
+
+---
+
+# 20. STRICT FINAL INSTRUCTIONS
+
+1. Inspect the existing project before making changes.
+2. Preserve existing working functionality if modifying an existing codebase.
+3. Never replace a working backend with mock data.
+4. Never invent API endpoints or claim unsupported integrations.
+5. Never fabricate live prices.
+6. Never expose credentials.
+7. Never silently modify financial records.
+8. Never claim a feature is working unless it has been implemented and tested.
+9. Do not leave important buttons decorative or nonfunctional.
+10. Do not build a static visual prototype when a working feature is required.
+11. Do not compromise mobile usability.
+12. Do not make desktop and mobile identical layouts.
+13. Do not overcomplicate the interface.
+14. Build a complete, maintainable product in phases if necessary.
+
+At the end, provide a clear implementation report containing:
+
+- What was actually built.
+- Which features work.
+- Which database tables and migrations were created.
+- Which API integrations were successfully verified.
+- Which API credentials or permissions are still required.
+- Which product categories have actual market-price coverage.
+- Which features remain incomplete.
+- Any known limitations.
+- Exact instructions to run and deploy the application.
+
+**The most important principle: BHAVIQ must show the truth. Real business data, real calculations, real sources, and transparent limitations. Premium design is important, but trust and correctness are more important.**

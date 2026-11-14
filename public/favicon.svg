@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <defs>
+    <linearGradient id="bhaviqRoyalBadge" x1="2" y1="2" x2="38" y2="38" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1D4ED8" />
+      <stop offset="100%" stop-color="#13389C" />
+    </linearGradient>
+  </defs>
+  <!-- Deep royal-blue rounded square badge -->
+  <rect x="1" y="1" width="38" height="38" rx="9" fill="url(#bhaviqRoyalBadge)" />
+  <!-- Upper ice-blue bowl of stylized 'B' -->
+  <path d="M12.6 8.2H21.9C26.5 8.2 29.6 10.7 29.6 14.1C29.6 17.2 27.2 19.3 23.6 19.8H12.6V8.2Z" fill="#C2DDFC" />
+  <!-- Left white vertical pillar of 'B' -->
+  <rect x="7.8" y="15.1" width="4.8" height="16.4" rx="1.6" fill="#FFFFFF" />
+  <!-- Lower pure-white bowl of 'B' -->
+  <path d="M14.3 20.1H23.2C27.9 20.1 31.3 22.4 31.3 25.9C31.3 29.4 27.9 31.5 23.0 31.5H14.3V20.1Z" fill="#FFFFFF" />
+  <!-- Royal-blue diagonal moat separating the emerald bar & node -->
+  <path d="M12.2 26.8L21.5 16.0" stroke="#163FA9" stroke-width="6.4" stroke-linecap="round" />
+  <circle cx="21.6" cy="16.0" r="4.6" fill="#163FA9" />
+  <!-- Emerald-green upward trajectory bar & circular node -->
+  <path d="M12.5 26.5L21.5 16.0" stroke="#10B981" stroke-width="3.6" stroke-linecap="round" />
+  <circle cx="21.6" cy="16.0" r="2.65" fill="#10B981" />
+</svg>
